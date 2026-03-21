@@ -1,6 +1,6 @@
 [project]
 name = "anatomyfyi"
-version = "0.1.0"
+version = "0.1.1"
 description = "Human anatomy and body systems API client — anatomyfyi.com"
 readme = "README.md"
 license = "MIT"
@@ -40,6 +40,7 @@ all = ["anatomyfyi[api,cli,mcp]"]
 
 [project.scripts]
 anatomyfyi = "anatomyfyi.cli:app"
+anatomyfyi-mcp = "anatomyfyi.mcp_server:main"
 
 [project.entry-points."mcp.servers"]
 anatomyfyi = "anatomyfyi.mcp_server:mcp"
