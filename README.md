@@ -275,6 +275,15 @@ This package is part of the [FYIPedia](https://fyipedia.com) developer tools eco
 
 <!-- WIDGET-OSS-MONITOR: cross-links END -->
 
+## Recently Updated (v0.1.2)
+
+Latest content state on [https://anatomyfyi.com](https://anatomyfyi.com):
+- [Homepage](https://anatomyfyi.com)
+- [Developer documentation](https://anatomyfyi.com/developers/)
+- [Sitemap (full content index)](https://anatomyfyi.com/sitemap.xml)
+
+Version bumped 2026-05-27 as part of the FYIPedia [SEO recovery refresh](https://github.com/dobestan).
+
 ## License
 
 MIT
